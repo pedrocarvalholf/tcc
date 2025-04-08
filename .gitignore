@@ -1,0 +1,19 @@
+# Ignorar pastas de dados
+data/
+datasetsons/
+output_brazil_grid/
+
+# Ignorar arquivos de dados
+*.csv
+*.parquet
+
+# Ignorar notebooks grandes ou temporários
+*.ipynb_checkpoints/
+pipeline_dados.ipynb
+
+# Ignorar arquivos compactados
+*.zip
+
+# Ignorar arquivos temporários
+*.log
+*.tmp

@@ -1,0 +1,15 @@
+# Ignorar dados
+data/
+datasetsons/
+output_brazil_grid/
+*.csv
+*.parquet
+
+# Ignorar notebooks grandes
+pipeline_dados.ipynb
+
+# Ignorar arquivos zipados
+*.zip
+X
+^X
+
