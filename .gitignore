@@ -1,6 +1,6 @@
 # Ignorar pastas de dados
 data/
-datasetsons/
+datasets_ons/
 output_brazil_grid/
 
 # Ignorar arquivos de dados
